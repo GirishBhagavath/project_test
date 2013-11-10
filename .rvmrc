@@ -1,0 +1,1 @@
+rvm --create use project_test@ruby-1.8.7 --rvmrc
